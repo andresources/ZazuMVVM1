@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZazuMVVM</string>
+    <string name="rationale_camera">rationale_camera</string>
+    <string name="rationale_location_contacts">rationale_location_contacts</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="returned_from_app_settings_to_activity">returned_from_app_settings_to_activity</string>
+</resources>
